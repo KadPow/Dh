@@ -20,7 +20,7 @@ November 19, 1863
 
 ---
 
-##Footnotes
+## Footnotes
 
 [^fn1]: Score = 20, so four score and seven years is 87 years.
 [^fn2]: Random strong independent footnote to break the stereotype that all footnotes are here to serve you.
